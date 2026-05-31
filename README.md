@@ -47,4 +47,4 @@ npm start
 Then open `frontend/index.html` in your browser.
 
 ## Live Demo
-_Coming soon_
+https://6a1c270782eea184c901458c--graceful-moxie-ede481.netlify.app/
