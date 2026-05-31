@@ -2,7 +2,7 @@
 //  SPENDSMART — app.js
 // ===========================
 
-const API = "http://localhost:3000/api";
+const API = "https://expense-tracker-2e6q.onrender.com";
 
 // ---- Fetch summary ----
 async function loadSummary() {
